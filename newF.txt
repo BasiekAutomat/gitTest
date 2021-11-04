@@ -1,1 +1,3 @@
-Zmiana na masterze
+
+To jest plik na newFeature
+
